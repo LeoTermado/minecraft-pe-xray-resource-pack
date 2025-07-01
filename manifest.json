@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "This addon was made my Leo Termado. Instagram: @leo.tdo",
+        "name": "X-ray 1.19.60",
+        "uuid": "618a4ec2-d7c2-5363-931a-dd3ebb50b6f6",
+        "version": [1, 1, 0]
+    },
+    "modules": [
+        {
+            "description": "this is a x-ray texturepack that makes every block except  ores and annoying gravel invisible",
+            "type": "resources",
+            "uuid": "04831da4-bb60-54cf-b2d8-fa7d7e7013f8",
+            "version": [1, 1, 0]
+        }
+    ]
+}
