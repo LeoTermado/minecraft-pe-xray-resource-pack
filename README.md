@@ -15,15 +15,27 @@ A lightweight X-ray texture pack for **Minecraft PE (Bedrock Edition)** version 
 
 ## 📥 How to Use
 
-1. Download all files from this repository onto your **phone**.
-2. Place the entire folder into the following location:
+### ✅ Option 1: Install with `.mcpack` (Recommended)
 
-   - **iPhone (iOS):**  
-     `On My iPhone > Minecraft > games > com.mojang > resource_packs`
+1. Download the file: **`Xray_1.19.60_LeoTermado.mcpack`**
+2. Open it on your phone or PC
+3. Minecraft will launch automatically and import the pack
+4. Go to `Settings > Global Resources > My Packs` and activate **X-ray 1.19.60**
 
-   - **Android (likely similar)
+### 🧰 Option 2: Manual Installation (for advanced users)
 
-3. Open Minecraft PE, go to **Settings > Global Resources**, and activate the X-ray pack under “My Packs”.
+#### 📱 iPhone (iOS):
+1. Download all files from this repository to your phone (as zip)
+2. Extract and move the entire folder to:  
+   `On My iPhone > Minecraft > games > com.mojang > resource_packs`
+
+#### 📱 Android:
+1. Download all files as zip and extract them
+2. Move the folder to:  
+   `Internal Storage > games > com.mojang > resource_packs`
+
+> ⚠️ On newer Android versions, you may need to use a file manager that can access:  
+> `Android > data > com.mojang.minecraftpe > files > games > com.mojang > resource_packs`
 
 ---
 
