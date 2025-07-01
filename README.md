@@ -13,6 +13,20 @@ A lightweight X-ray texture pack for **Minecraft PE (Bedrock Edition)** version 
 
 ---
 
+## 📥 How to Use
+
+1. Download all files from this repository onto your **phone**.
+2. Place the entire folder into the following location:
+
+   - **iPhone (iOS):**  
+     `On My iPhone > Minecraft > games > com.mojang > resource_packs`
+
+   - **Android (likely similar)
+
+3. Open Minecraft PE, go to **Settings > Global Resources**, and activate the X-ray pack under “My Packs”.
+
+---
+
 ## 🧱 Features
 
 - See through all blocks except ores and gravel  
@@ -28,6 +42,6 @@ A lightweight X-ray texture pack for **Minecraft PE (Bedrock Edition)** version 
 
 ---
 
-## 📸 Preview
+## 📸
 
 ![Pack Icon](pack_icon.png)
